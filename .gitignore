@@ -1,0 +1,10 @@
+build*/
+.build*/
+meson.build
+.vscode
+.cache
+.ccls-cache
+.lite-debug.log
+.run*
+*.DS_Store
+
